@@ -3,8 +3,6 @@ function findNearestPoints(map, points, maxDistance) {
 
     map.locate()
         .on('locationfound', function (userLocation) {
-            console.log(userLocation);
-
             points.forEach(function (point) {
                 if (DG.latLng(point.lat, point.lon).distanceTo(DG.latLng(userLocation.latitude, userLocation.longitude)) <= maxDistance) {
                     nearestPoints.push(point);
