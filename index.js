@@ -18,21 +18,14 @@ window.addEventListener("load", function(e){
 
 
 function registerUserWithEmailAndPassword(email) {
-    return (dispatch) => {
-        firebase.auth()
-            .createUserWithEmailAndPassword(email)
-            .then((user) => {
-
-            })
-        
-            .catch((error) => {
-                // Handle Errors here.
-                var errorCode = error.code;
-                var errorMessage = error.message;
-                dispatch({
-                    type: types.userRegisterErr,
-                    payload: errorMessage
-                });
-            });
-    }
+    firebase.auth()
+        .createUserWithEmailAndPassword(email)
+        .then((user) => {
+            console.log(user);
+        })
+        .catch((error) => {
+            var errorCode = error.code;
+            var errorMessage = error.message;
+            console.log(errorCode+errorMessage);
+        });
 }
