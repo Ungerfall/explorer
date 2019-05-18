@@ -1,26 +1,28 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>explorer</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <script src="https://maps.api.2gis.ru/2.0/loader.js?pkg=full"></script>
-        <script type="text/javascript" src="nearest.js"></script>
-        <script type="text/javascript" src="sight.js"></script>
-        <script type="text/javascript" src="interesting_places.js"></script>
-        <script type="text/javascript">
-            var map;
 
-            DG.then(function () {
-                map = DG.map('map', {
-                    center: [56.8662,53.1891],
-                    zoom: 13
-                });
+<head>
+    <title>explorer</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <script src="https://maps.api.2gis.ru/2.0/loader.js?pkg=full"></script>
+    <script type="text/javascript" src="nearest.js"></script>
+    <script type="text/javascript" src="sight.js"></script>
+    <script type="text/javascript" src="interesting_places.js"></script>
+    <script type="text/javascript">
+        var map;
 
-                DG.control.location({ locateOptions: { setView: false, watch: true } }).addTo(map);
+        DG.then(function () {
+            map = DG.map('map', {
+                center: [56.8662, 53.1891],
+                zoom: 13
+            });
 
-                renderMarkers(map, interestingPoints);
-                setInterval(function(){
-                    var points = findNearestPoints(map, interestingPoints, 20);
+            DG.control.location({ locateOptions: { setView: false, watch: true } }).addTo(map);
+
+            renderMarkers(map, interestingPoints);
+            map.locate({ setView: false, watch: true })
+                .on('locationfound', function (userLocation) {
+                    var points = findNearestPoints(userLocation, interestingPoints, 20);
                     // for demo
                     /*
                     var index = Math.random() * (0 - interestingPoints.length - 5) + 0;
@@ -28,12 +30,23 @@
                     console.log(points);
                     */
                     renderVisitedMarkers(map, points);
-                }, 2000);
-            });
-            
-        </script>
-    </head>
-    <body>
-        <div id="map" style="width: 100%; height: 100%;position: absolute;"></div>
-    </body>
+                    points.forEach(function (point) {
+                        interestingPoints.splice(interestingPoints.indexOf(point), 1);
+                    });
+                })
+                .on('locationerror', function (e) {
+                    var popup = DG.popup()
+                        .setLatLng(map.getCenter())
+                        .setContent('Доступ к определению местоположения отключён')
+                        .openOn(map);
+                });
+        });
+
+    </script>
+</head>
+
+<body>
+    <div id="map" style="width: 100%; height: 100%;position: absolute;"></div>
+</body>
+
 </html>
