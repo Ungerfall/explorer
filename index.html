@@ -16,6 +16,8 @@
                     zoom: 13
                 });
 
+                DG.control.location({ follow: true, locateOptions: { setView: false, watch: false } }).addTo(map);
+
                 renderMarkers(map, interestingPoints);
                 setInterval(function(){
                     var points = findNearestPoints(map, interestingPoints, 20);
