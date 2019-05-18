@@ -4,6 +4,7 @@
         <title>explorer</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <script src="https://maps.api.2gis.ru/2.0/loader.js?pkg=full"></script>
+        <script type="text/javascript" src="nearest.js"></script>
         <script type="text/javascript" src="load-signs.js"></script>
         <script type="text/javascript" src="interesting_places.js"></script>
         <script type="text/javascript">
@@ -16,6 +17,7 @@
                 });
 
                 renderMarkers(map, interestingPoints);
+                findNearestPoints(map, interestingPoints, 20);
             });
         </script>
     </head>
