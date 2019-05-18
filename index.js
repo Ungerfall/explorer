@@ -9,6 +9,11 @@ window.addEventListener("load", function(e){
     authBtn.addEventListener("click",function(e){
         authBtn.disabled = "true";
     },false);
+
+    var mapBtn = document.getElementById("btn-map");
+    mapBtn.addEventListener("click", function(e){
+        window.location.href = "map.html";
+    })
 }, false);
 
 
