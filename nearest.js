@@ -1,7 +1,7 @@
 function findNearestPoints(map, points, maxDistance) {
     var nearestPoints = [];
 
-    map.locate({ setView: true, watch: true })
+    map.locate()
         .on('locationfound', function (userLocation) {
             console.log(userLocation);
 
