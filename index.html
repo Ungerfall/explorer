@@ -16,7 +16,7 @@
                     zoom: 13
                 });
 
-                DG.control.location({ follow: true, locateOptions: { setView: false, watch: false } }).addTo(map);
+                DG.control.location({ locateOptions: { setView: false, watch: true } }).addTo(map);
 
                 renderMarkers(map, interestingPoints);
                 setInterval(function(){
