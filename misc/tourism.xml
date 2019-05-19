@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2019-05-18T12:21:02Z"/>
+
+  <node id="359074135" lat="56.8515094" lon="53.2085711">
+    <tag k="name" v="Park Inn"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="992565566" lat="56.8013379" lon="53.1399047">
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Солнечная улица"/>
+    <tag k="name" v="отель Солнечный"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="992571315" lat="56.7996719" lon="53.1618589">
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Шакира"/>
+    <tag k="phone" v="+7 3412 516557"/>
+    <tag k="rooms" v="5"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="http://www.shakira-f.ru"/>
+  </node>
+  <node id="1259897115" lat="56.8466385" lon="53.1990094">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="Формула"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="1290820727" lat="56.8462688" lon="53.2195685">
+    <tag k="name" v="Крокодил"/>
+    <tag k="tourism" v="viewpoint"/>
+  </node>
+  <node id="1451903764" lat="56.7939781" lon="53.0486487">
+    <tag k="name" v="Чекерил"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="1602457868" lat="56.8488335" lon="53.2569167">
+    <tag k="name" v="Общежитие"/>
+    <tag k="tourism" v="hostel"/>
+  </node>
+  <node id="1650610993" lat="56.8700040" lon="53.2189526">
+    <tag k="name" v="Общежитие"/>
+    <tag k="tourism" v="hostel"/>
+  </node>
+  <node id="1650610997" lat="56.8701145" lon="53.2201835">
+    <tag k="name" v="Общежитие №2"/>
+    <tag k="tourism" v="hostel"/>
+  </node>
+  <node id="2016922908" lat="56.9517890" lon="53.0640428">
+    <tag k="tourism" v="picnic_site"/>
+  </node>
+  <node id="2102023947" lat="56.8111339" lon="53.1894171">
+    <tag k="addr:city" v="Ижевск"/>
+    <tag k="addr:housenumber" v="5Б"/>
+    <tag k="addr:postcode" v="426028"/>
+    <tag k="addr:street" v="улица Гагарина"/>
+    <tag k="email" v="italmas.izh.hotel@gmail.com"/>
+    <tag k="fax" v="+7 (3412) 31-00-11"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Италмас"/>
+    <tag k="phone" v="+7 (3412) 31-00-11"/>
+    <tag k="smoking" v="no"/>
+    <tag k="stars" v="2"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="http://www.italmashotel.ru/"/>
+  </node>
+  <node id="2398210534" lat="56.8456347" lon="53.1975710">
+    <tag k="name" v="Ротонда"/>
+    <tag k="tourism" v="viewpoint"/>
+  </node>
+  <node id="2624663164" lat="56.8548223" lon="53.2206066">
+    <tag k="addr:city" v="Ижевск"/>
+    <tag k="addr:street" v="площадь им. 50-летия Октября"/>
+    <tag k="alt_name" v="Ступа Лонгсал"/>
+    <tag k="name" v="Стела здоровья, счастья и благополучия"/>
+    <tag k="source" v="Википедия"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q60025353"/>
+    <tag k="wikipedia" v="ru:Стела здоровья, счастья и благополучия (Ижевск)"/>
+  </node>
+  <node id="2845469800" lat="56.8790826" lon="53.2529608">
+    <tag k="name" v="Уральская"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="http://www.otel-ural.ru/"/>
+  </node>
+  <node id="3053294350" lat="56.8333578" lon="53.2872503">
+    <tag k="name" v="Green Roof"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.hotelgreenroof.ru/"/>
+  </node>
+  <node id="3215293192" lat="56.8670901" lon="53.2141192">
+    <tag k="name" v="Премьер-Отель"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="3627692911" lat="56.8465310" lon="53.1979153">
+    <tag k="name" v="Музей Ижевска"/>
+    <tag k="name:en" v="Museum of Izhevsk"/>
+    <tag k="name:udm" v="Ижкарлэн музейез"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="http://muzeiizhevska.ru"/>
+  </node>
+  <node id="3916526494" lat="56.8767887" lon="53.2651646">
+    <tag k="name" v="Кама"/>
+    <tag k="name:ja" v="カマ"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="3989310047" lat="56.8382153" lon="53.1591137">
+    <tag k="name" v="Сауна Тазик"/>
+    <tag k="tourism" v="guest_house"/>
+  </node>
+  <node id="4034098371" lat="56.8346982" lon="53.1557005">
+    <tag k="name" v="Сауна Заречная"/>
+    <tag k="tourism" v="guest_house"/>
+  </node>
+  <node id="4087799865" lat="56.8402741" lon="53.1946883">
+    <tag k="artwork_type" v="sculpture"/>
+    <tag k="description" v="Копия знаменитой Царь-пушки, отлитая на заводе &quot;Ижсталь&quot;"/>
+    <tag k="name" v="Царь-пушка"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="4132952589" lat="56.8209367" lon="53.1819934">
+    <tag k="name" v="Shark-hotel"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="4153273114" lat="56.9286615" lon="53.2244196">
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="4167405233" lat="56.9356824" lon="53.2400545">
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Крестьянский проезд"/>
+    <tag k="name" v="Golden fish"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="4169237840" lat="56.8581668" lon="53.3574027">
+    <tag k="information" v="stele"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="4169924789" lat="56.8570575" lon="53.3433467">
+    <tag k="information" v="stele"/>
+    <tag k="name" v="Стелла «Первомайский»"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="4185604302" lat="56.8535452" lon="53.2163399">
+    <tag k="name" v="Национальный музей Удмуртской Республики имени Кузебая Герда"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="4207999604" lat="56.8405368" lon="53.2004866">
+    <tag k="name" v="Музей-квартира Г.Д. Красильникова"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="4268005190" lat="56.8321656" lon="53.4345937">
+    <tag k="name" v="HOTEL"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="4268005200" lat="56.8323166" lon="53.4382578">
+    <tag k="name" v="Баку"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="4314093489" lat="56.8381655" lon="53.2118389">
+    <tag k="addr:housenumber" v="126"/>
+    <tag k="addr:street" v="Красноармейская улица"/>
+    <tag k="name" v="Викторианская чугунная беседка"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4398619589" lat="56.8107601" lon="53.1889307">
+    <tag k="name" v="Титан"/>
+    <tag k="name:ru" v="Титан"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="4400483835" lat="56.8522881" lon="53.1951754">
+    <tag k="name" v="Стелла 1760"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4400483836" lat="56.8518686" lon="53.1951634">
+    <tag k="name" v="Стелла 2010"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463429" lat="56.8460835" lon="53.1989381">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="Аэротрек"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463436" lat="56.8464639" lon="53.1990437">
+    <tag k="attraction" v="carousel"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="Свадебная карусель"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463437" lat="56.8468678" lon="53.1989418">
+    <tag k="attraction" v="carousel"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="Осьминог"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463438" lat="56.8471046" lon="53.1989582">
+    <tag k="attraction" v="bumper_car"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="&quot;Автодром&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463439" lat="56.8474916" lon="53.1988609">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="&quot;Бамперные лодки&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463440" lat="56.8476857" lon="53.1988472">
+    <tag k="attraction" v="train"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="&quot;Паровозик зоопарк&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463441" lat="56.8480951" lon="53.1989310">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="&quot;Батут&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463442" lat="56.8482376" lon="53.1988892">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="Батут &quot;Динозавр&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463443" lat="56.8484189" lon="53.1988891">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="&quot;Каравелла&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463444" lat="56.8486601" lon="53.1988314">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="&quot;Батут&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463476" lat="56.8478518" lon="53.1980631">
+    <tag k="attraction" v="carousel"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="&quot;Вихрь&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463478" lat="56.8472734" lon="53.1984980">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="&quot;Детский лабиринт&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463479" lat="56.8480226" lon="53.1981235">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="Бэтмен"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463480" lat="56.8475651" lon="53.1985659">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="&quot;Мини Джет&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463481" lat="56.8474881" lon="53.1985719">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="&quot;Спортивный батут&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463483" lat="56.8479289" lon="53.1989585">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="&quot;Батут&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463484" lat="56.8462144" lon="53.1991057">
+    <tag k="attraction" v="carousel"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="Орбита"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463485" lat="56.8459791" lon="53.1990761">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="Гигантские качели «Луна»"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463486" lat="56.8476710" lon="53.1983841">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="&quot;Морское сокровище&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463487" lat="56.8475571" lon="53.1981783">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="Маяк"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463488" lat="56.8460295" lon="53.1982627">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="&quot;Водный шар&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403463489" lat="56.8476858" lon="53.1981026">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="leisure" v="yes"/>
+    <tag k="name" v="&quot;Падающая звезда&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4403468325" lat="56.8455324" lon="53.1979815">
+    <tag k="name" v="Карета"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="4485268786" lat="56.9189896" lon="53.1455907">
+    <tag k="tourism" v="picnic_site"/>
+  </node>
+  <node id="4510776798" lat="56.8424312" lon="53.1799152">
+    <tag k="addr:housenumber" v="2/55"/>
+    <tag k="addr:postcode" v="426057"/>
+    <tag k="addr:street" v="проезд Дерябина"/>
+    <tag k="email" v="Sales@NPC-Springs.ru"/>
+    <tag k="name" v="НПЦ &quot;Пружина&quot;"/>
+    <tag k="name:en" v="NPC Springs"/>
+    <tag k="name:ru" v="НПЦ &quot;Пружина&quot;"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="phone" v="+73412230415"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="website" v="http://www.npc-springs.ru"/>
+  </node>
+  <node id="4627043389" lat="56.8300042" lon="53.4363652">
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="427006"/>
+    <tag k="addr:street" v="Ракетная улица"/>
+    <tag k="email" v="ludmila@eofs.ru"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Отель Сиреневый сад"/>
+    <tag k="name:en" v="Hotel Lilac Garden"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+    <tag k="operator" v="Краснопёрова Людмила"/>
+    <tag k="phone" v="+79128526263"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://lilihotel.ru"/>
+  </node>
+  <node id="4827478921" lat="56.8013985" lon="53.1873576">
+    <tag k="name" v="Нарцисс"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="4871536461" lat="56.9008911" lon="53.3168691">
+    <tag k="name" v="Титаник"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="4938751321" lat="56.9211252" lon="53.2217552">
+    <tag k="tourism" v="guest_house"/>
+  </node>
+  <node id="5284077454" lat="56.8823296" lon="53.3013037">
+    <tag k="name" v="Музей истории ИжАвто"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-16:00"/>
+    <tag k="phone" v="+73412648081"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="http://ladaizhevsk.ru"/>
+  </node>
+  <node id="5584615625" lat="56.8669962" lon="53.2149474">
+    <tag k="addr:city" v="Ижевск"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:street" v="Северный переулок"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="like hostel"/>
+    <tag k="smoking" v="no"/>
+    <tag k="tourism" v="hostel"/>
+    <tag k="website" v="http://izhevsk.likehostels.ru/"/>
+  </node>
+  <node id="5672278014" lat="56.8458315" lon="53.2132056">
+    <tag k="name" v="Музей МВД по Удмуртской Республике"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="5714118646" lat="56.8463272" lon="53.1960943">
+    <tag k="artwork_type" v="sculpture"/>
+    <tag k="name" v="Памятник &quot;Кормилице, или человеческой благодарности&quot;"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="5714118653" lat="56.8478226" lon="53.1954077">
+    <tag k="artwork_type" v="sculpture"/>
+    <tag k="name" v="Памятник &quot;Первому мотоциклу ИЖ-1&quot;"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="5714118654" lat="56.8479011" lon="53.1953822">
+    <tag k="artwork_type" v="sculpture"/>
+    <tag k="name" v="Скульптура &quot;Потомок Гефеста&quot;"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="5714118655" lat="56.8480199" lon="53.1952977">
+    <tag k="name" v="Скульптура &quot;Кафтанщик&quot;"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="5714118656" lat="56.8481409" lon="53.1952280">
+    <tag k="name" v="Скульптура &quot;Велосипедист-победоносец&quot;"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="5714171108" lat="56.8455871" lon="53.1979276">
+    <tag k="name" v="Дерево любви"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723635229" lat="56.8624763" lon="53.1712656">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Автодром&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723635230" lat="56.8625471" lon="53.1717339">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Железная дорога&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723635231" lat="56.8621833" lon="53.1727568">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Орбита&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723635232" lat="56.8623887" lon="53.1722331">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Червячок&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723635233" lat="56.8620283" lon="53.1733484">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="Весёлые горки"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723635234" lat="56.8617656" lon="53.1728308">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="Спортивный батут"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723635235" lat="56.8616544" lon="53.1732806">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Бамперные лодки&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723635236" lat="56.8615466" lon="53.1737181">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Качели&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723635237" lat="56.8614729" lon="53.1740862">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Карнавал&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723635241" lat="56.8616477" lon="53.1757058">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="Веревочный аттракцион ХЭММИ ПАРК"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723703079" lat="56.8470087" lon="53.2003450">
+    <tag k="name" v="Стелла &quot;Аксион&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723774152" lat="56.8864643" lon="53.2487761">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Батут&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723774153" lat="56.8858920" lon="53.2493636">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Зверинец&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723774154" lat="56.8860892" lon="53.2491937">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Детский лабиринт&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723774155" lat="56.8863869" lon="53.2490592">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Паровозик Автобус&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723774156" lat="56.8862129" lon="53.2491442">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Бамперные лодки&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723774157" lat="56.8858804" lon="53.2498095">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="Тир"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723774158" lat="56.8863560" lon="53.2497388">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Автодром&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723774159" lat="56.8865571" lon="53.2497034">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Зеркальный лабиринт&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723774160" lat="56.8866615" lon="53.2493282">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Паровозик Медвежонок&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723774161" lat="56.8868007" lon="53.2491796">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Полёт&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723774162" lat="56.8868780" lon="53.2489955">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Астронавт&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723774163" lat="56.8870134" lon="53.2489318">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Колокольчик&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723774164" lat="56.8872493" lon="53.2488540">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Индейская река&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723774165" lat="56.8873498" lon="53.2486345">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Космический фрегат&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723774166" lat="56.8873730" lon="53.2489672">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Водный надувной шар&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723774167" lat="56.8871100" lon="53.2484009">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Вальс&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723774168" lat="56.8869592" lon="53.2485000">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Вихрь&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723774169" lat="56.8868432" lon="53.2485779">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Юнга&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5723774170" lat="56.8866963" lon="53.2486558">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="&quot;Солнышко&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5728834137" lat="56.8663252" lon="53.2086252">
+    <tag k="name" v="&quot;Я люблю Ижевск&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572368" lat="56.8635972" lon="53.1749751">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Амурский тигр"/>
+    <tag k="species:wikidata" v="Q69581"/>
+    <tag k="species:wikipedia" v="ru:Амурский тигр"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572369" lat="56.8639628" lon="53.1745614">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Бенгальский тигр (белая вариация)"/>
+    <tag k="species:wikidata" v="Q80952"/>
+    <tag k="species:wikipedia" v="ru:Бенгальский тигр"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572370" lat="56.8641022" lon="53.1748912">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Леопард"/>
+    <tag k="species:wikidata" v="Q34706"/>
+    <tag k="species:wikipedia" v="ru:Леопард"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572371" lat="56.8642617" lon="53.1743149">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Восточно-сибирская рысь"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572372" lat="56.8649003" lon="53.1732148">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Лев (белая вариация)"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572373" lat="56.8646814" lon="53.1721611">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Лев"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572374" lat="56.8649643" lon="53.1727712">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Дальневосточный лесной кот"/>
+    <tag k="species:wikidata" v="Q1988192"/>
+    <tag k="species:wikipedia" v="ru:Амурский лесной кот"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572375" lat="56.8644855" lon="53.1740739">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Белая сова"/>
+    <tag k="species:wikidata" v="Q170177"/>
+    <tag k="species:wikipedia" v="ru:Белая сова"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572376" lat="56.8642064" lon="53.1741080">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Сервал"/>
+    <tag k="species:wikidata" v="Q42699"/>
+    <tag k="species:wikipedia" v="ru:Сервал"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572377" lat="56.8641265" lon="53.1743211">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Росомаха"/>
+    <tag k="species:wikidata" v="Q14334"/>
+    <tag k="species:wikipedia" v="ru:Росомаха"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572378" lat="56.8644368" lon="53.1741568">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Балобан"/>
+    <tag k="species:wikidata" v="Q165974"/>
+    <tag k="species:wikipedia" v="ru:Балобан"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572379" lat="56.8644066" lon="53.1734362">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Филин"/>
+    <tag k="species:wikidata" v="Q130933"/>
+    <tag k="species:wikipedia" v="ru:Филин"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572380" lat="56.8643304" lon="53.1734368">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Зелёный павлин"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572381" lat="56.8645803" lon="53.1745566">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Арктический волк"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572382" lat="56.8648094" lon="53.1743533">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Чёрный волк"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572383" lat="56.8647790" lon="53.1732133">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Гималайский медведь"/>
+    <tag k="species:wikidata" v="Q124410"/>
+    <tag k="species:wikipedia" v="ru:Гималайский медведь"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572384" lat="56.8645871" lon="53.1730654">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Бурый медведь"/>
+    <tag k="species:wikidata" v="Q36341"/>
+    <tag k="species:wikipedia" v="ru:Бурый медведь"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572385" lat="56.8648672" lon="53.1725782">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Носуха"/>
+    <tag k="species:wikidata" v="Q148628"/>
+    <tag k="species:wikipedia" v="ru:Носухи"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572386" lat="56.8647353" lon="53.1727265">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Дикобраз индийский"/>
+    <tag k="species:wikidata" v="Q741524"/>
+    <tag k="species:wikipedia" v="ru:Индийский дикобраз"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572387" lat="56.8643798" lon="53.1728274">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Енот-полоскун"/>
+    <tag k="species:wikidata" v="Q121439"/>
+    <tag k="species:wikipedia" v="ru:Енот-полоскун"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572388" lat="56.8643614" lon="53.1724739">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Обыкновенный еж"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572389" lat="56.8643277" lon="53.1725725">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Обыкновенная белка"/>
+    <tag k="species:wikidata" v="Q4388"/>
+    <tag k="species:wikipedia" v="ru:Обыкновенная белка"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572390" lat="56.8648161" lon="53.1718268">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Обыкновенный павлин"/>
+    <tag k="species:wikidata" v="Q61865"/>
+    <tag k="species:wikipedia" v="ru:Обыкновенный павлин"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572391" lat="56.8644067" lon="53.1739749">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Длиннохвостая неясыть"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572392" lat="56.8643804" lon="53.1740817">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Ушастая сова"/>
+    <tag k="species:wikidata" v="Q25384"/>
+    <tag k="species:wikipedia" v="ru:Ушастая сова"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572393" lat="56.8644633" lon="53.1739851">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Болотная сова"/>
+    <tag k="species:wikidata" v="Q25769"/>
+    <tag k="species:wikipedia" v="ru:Болотная сова"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572394" lat="56.8652422" lon="53.1729333">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Зебу (карликовый)"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572395" lat="56.8650421" lon="53.1718603">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Камерунская коза"/>
+    <tag k="species:wikidata" v="Q2934"/>
+    <tag k="species:wikipedia" v="ru:Домашняя коза"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572396" lat="56.8650422" lon="53.1720798">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Альпака"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572397" lat="56.8656911" lon="53.1720563">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Северный олень"/>
+    <tag k="species:wikidata" v="Q39624"/>
+    <tag k="species:wikipedia" v="ru:Северный олень"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572398" lat="56.8652059" lon="53.1725087">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Двугорбый верблюд"/>
+    <tag k="species:wikidata" v="Q132922"/>
+    <tag k="species:wikipedia" v="ru:Двугорбый верблюд"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572399" lat="56.8651395" lon="53.1715311">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Мини-лошадь"/>
+    <tag k="species:wikidata" v="Q2169710"/>
+    <tag k="species:wikipedia" v="ru:Мини-лошадь"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572400" lat="56.8652674" lon="53.1718145">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Домашняя лошадь (пор. Орловский рысак)"/>
+    <tag k="species:wikidata" v="Q516612"/>
+    <tag k="species:wikipedia" v="ru:Орловский рысак"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572409" lat="56.8655817" lon="53.1722100">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Страус"/>
+    <tag k="species:wikidata" v="Q17592"/>
+    <tag k="species:wikipedia" v="ru:Страус"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572410" lat="56.8655018" lon="53.1724316">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Эму"/>
+    <tag k="species:wikidata" v="Q93208"/>
+    <tag k="species:wikipedia" v="ru:Эму"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572411" lat="56.8654618" lon="53.1726262">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Домашняя курица"/>
+    <tag k="species:wikidata" v="Q780"/>
+    <tag k="species:wikipedia" v="ru:Курица"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572412" lat="56.8654161" lon="53.1727449">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Домашняя индейка"/>
+    <tag k="species:wikidata" v="Q848706"/>
+    <tag k="species:wikipedia" v="ru:Домашняя индейка"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572413" lat="56.8654440" lon="53.1711748">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Лебедь-шипун"/>
+    <tag k="species:wikidata" v="Q25402"/>
+    <tag k="species:wikipedia" v="ru:Лебедь-шипун"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572414" lat="56.8655296" lon="53.1713036">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Чёрный лебедь"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572415" lat="56.8655173" lon="53.1703251">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Японский журавль"/>
+    <tag k="species:wikidata" v="Q232906"/>
+    <tag k="species:wikipedia" v="ru:Японский журавль"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572416" lat="56.8654640" lon="53.1705040">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Даурский журавль"/>
+    <tag k="species:wikidata" v="Q27452479"/>
+    <tag k="species:wikipedia" v="ru:Даурский журавль"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572417" lat="56.8655951" lon="53.1699918">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Розовый (обыкновенный) фламинго"/>
+    <tag k="species:wikidata" v="Q179863"/>
+    <tag k="species:wikipedia" v="ru:Обыкновенный фламинго"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572418" lat="56.8657551" lon="53.1707114">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Кумай"/>
+    <tag k="species:wikidata" v="Q643101"/>
+    <tag k="species:wikipedia" v="ru:Снежный гриф"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572419" lat="56.8658308" lon="53.1707237">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Белоплечий орлан"/>
+    <tag k="species:wikidata" v="Q269896"/>
+    <tag k="species:wikipedia" v="ru:Белоплечий орлан"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737572420" lat="56.8659462" lon="53.1704796">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Могильник"/>
+    <tag k="species:wikidata" v="Q168976"/>
+    <tag k="species:wikipedia" v="ru:Могильник (птица)"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737573721" lat="56.8643795" lon="53.1735028">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Орлан белохвост"/>
+    <tag k="species:wikidata" v="Q25438"/>
+    <tag k="species:wikipedia" v="ru:Орлан-белохвост"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737573722" lat="56.8659908" lon="53.1702166">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Беркут"/>
+    <tag k="species:wikidata" v="Q41181"/>
+    <tag k="species:wikipedia" v="ru:Беркут"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737573723" lat="56.8658764" lon="53.1701597">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Белоголовый сип"/>
+    <tag k="species:wikidata" v="Q177856"/>
+    <tag k="species:wikipedia" v="ru:Белоголовый сип"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737573724" lat="56.8659019" lon="53.1690823">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Пятнистый олень"/>
+    <tag k="species:wikidata" v="Q190516"/>
+    <tag k="species:wikipedia" v="ru:Пятнистый олень"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737573725" lat="56.8660740" lon="53.1694532">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Японский макак"/>
+    <tag k="species:wikidata" v="Q191781"/>
+    <tag k="species:wikipedia" v="ru:Японский макак"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737573726" lat="56.8662124" lon="53.1710078">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Эдипов тамарин"/>
+    <tag k="species:wikidata" v="Q137528"/>
+    <tag k="species:wikipedia" v="ru:Эдипов тамарин"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737573727" lat="56.8662857" lon="53.1711955">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Чёрный мангобей"/>
+    <tag k="species:wikidata" v="Q179225"/>
+    <tag k="species:wikipedia" v="ru:Чёрный мангобей"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737573728" lat="56.8663208" lon="53.1714155">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Краснорукий тамарин"/>
+    <tag k="species:wikidata" v="Q775569"/>
+    <tag k="species:wikipedia" v="ru:Краснорукий тамарин"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737573729" lat="56.8663912" lon="53.1715764">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Черношапочный гиббон"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737573730" lat="56.8664733" lon="53.1717910">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Восточный колобус"/>
+    <tag k="species:wikidata" v="Q628239"/>
+    <tag k="species:wikipedia" v="ru:Восточный колобус"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737573731" lat="56.8661889" lon="53.1715496">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Браззовская мартышка"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737573732" lat="56.8661566" lon="53.1718232">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Мандрил"/>
+    <tag k="species:wikidata" v="Q189868"/>
+    <tag k="species:wikipedia" v="ru:Мандрил"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737573733" lat="56.8661039" lon="53.1714101">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Шимпанзе"/>
+    <tag k="species:wikidata" v="Q80174"/>
+    <tag k="species:wikipedia" v="ru:Шимпанзе"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737573734" lat="56.8662593" lon="53.1720860">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Орангутан"/>
+    <tag k="species:wikidata" v="Q41050"/>
+    <tag k="species:wikipedia" v="ru:Орангутаны"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737573735" lat="56.8662857" lon="53.1717374">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Бурый капуцин"/>
+    <tag k="species:wikidata" v="Q285648"/>
+    <tag k="species:wikipedia" v="ru:Бурый капуцин"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737573736" lat="56.8663707" lon="53.1719788">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Обыкновенный (беличий) саймири"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737628444" lat="56.8660540" lon="53.1721182">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Песец"/>
+    <tag k="species:wikidata" v="Q82738"/>
+    <tag k="species:wikipedia" v="ru:Песец"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737628445" lat="56.8659924" lon="53.1720324">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Корсак"/>
+    <tag k="species:wikidata" v="Q187024"/>
+    <tag k="species:wikipedia" v="ru:Корсак"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737628446" lat="56.8661832" lon="53.1726488">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Белый медведь"/>
+    <tag k="species:wikidata" v="Q33609"/>
+    <tag k="species:wikipedia" v="ru:Белый медведь"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737628447" lat="56.8657834" lon="53.1727948">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Северный морской котик"/>
+    <tag k="species:wikidata" v="Q7966"/>
+    <tag k="species:wikipedia" v="ru:Северный морской котик"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737628448" lat="56.8657117" lon="53.1732278">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Морж"/>
+    <tag k="species:wikidata" v="Q40994"/>
+    <tag k="species:wikipedia" v="ru:Морж"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737628459" lat="56.8655400" lon="53.1741237">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Синежёлтый ара"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737628460" lat="56.8655264" lon="53.1709933">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Розовый пеликан"/>
+    <tag k="species:wikidata" v="Q199427"/>
+    <tag k="species:wikipedia" v="ru:Розовый пеликан"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737628461" lat="56.8656352" lon="53.1711844">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Кудрявый пеликан"/>
+    <tag k="species:wikidata" v="Q184751"/>
+    <tag k="species:wikipedia" v="ru:Кудрявый пеликан"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737628462" lat="56.8654286" lon="53.1708998">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Белощёкая казарка"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737628463" lat="56.8642286" lon="53.1751175">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Ягуар (чёрная варация)"/>
+    <tag k="species:wikidata" v="Q35694"/>
+    <tag k="species:wikipedia" v="ru:Ягуар"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737628464" lat="56.8651547" lon="53.1722983">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Домашняя карликовая свинья"/>
+    <tag k="species:wikidata" v="Q767508"/>
+    <tag k="species:wikipedia" v="ru:Карликовая домашняя свинья"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5737628465" lat="56.8651428" lon="53.1721090">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Домашняя коза"/>
+    <tag k="species:wikidata" v="Q2934"/>
+    <tag k="species:wikipedia" v="ru:Домашняя коза"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5738815377" lat="56.8657519" lon="53.1713042">
+    <tag k="man_made" v="tower"/>
+    <tag k="tourism" v="viewpoint"/>
+    <tag k="tower:type" v="observation"/>
+  </node>
+  <node id="5738815614" lat="56.8639134" lon="53.1739595">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Фазан"/>
+    <tag k="species:wikidata" v="Q25432"/>
+    <tag k="species:wikipedia" v="ru:Обыкновенный фазан"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5738815615" lat="56.8646312" lon="53.1717697">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Соболь"/>
+    <tag k="species:wikidata" v="Q26423"/>
+    <tag k="species:wikipedia" v="ru:Соболь"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5738815616" lat="56.8645022" lon="53.1719709">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Фенек"/>
+    <tag k="species:wikidata" v="Q131564"/>
+    <tag k="species:wikipedia" v="ru:Фенек"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5738815617" lat="56.8644993" lon="53.1722016">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Уссурийская харза"/>
+    <tag k="species:wikidata" v="Q220248"/>
+    <tag k="species:wikipedia" v="ru:Харза"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5738910594" lat="56.8634042" lon="53.1740904">
+    <tag k="attraction" v="amusement_ride"/>
+    <tag k="name" v="Аттракционы"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5738910595" lat="56.8657463" lon="53.1699926">
+    <tag k="attraction" v="animal"/>
+    <tag k="name" v="Утки"/>
+    <tag k="species:wikidata" v="Q3736439"/>
+    <tag k="species:wikipedia" v="ru:Утки"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5738910598" lat="56.8653868" lon="53.1709738">
+    <tag k="man_made" v="watermill"/>
+    <tag k="name" v="Водяная мельница"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="5743920896" lat="56.8584047" lon="53.1938764">
+    <tag k="man_made" v="observatory"/>
+    <tag k="name" v="Обсерватория"/>
+    <tag k="tourism" v="viewpoint"/>
+    <tag k="website" v="https://www.izzum.ru/"/>
+  </node>
+  <node id="5862372785" lat="56.8457121" lon="53.1961297">
+    <tag k="name" v="Солнечные часы"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5862372788" lat="56.8553727" lon="53.2112630">
+    <tag k="name" v="&quot;Связка ключей&quot;"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5862429811" lat="56.8447216" lon="53.2048494">
+    <tag k="artist_name" v="питерский художник В.И. Петров"/>
+    <tag k="artwork_type" v="graffiti"/>
+    <tag k="name" v="Композиция «Телеграф на службе человека»"/>
+    <tag k="tourism" v="artwork"/>
+    <tag k="website" v="http://www.izh.ru/i/info/16445.html"/>
+  </node>
+  <node id="5863880306" lat="56.8528885" lon="53.2105869">
+    <tag k="name" v="Нулевой километр автодорог Удмуртии"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5863880307" lat="56.8520422" lon="53.2109061">
+    <tag k="name" v="Доска почёта Удмуртии"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5863880309" lat="56.8471093" lon="53.1999479">
+    <tag k="description" v="5 руководителей (П. В. Можаров, Д. Ф. Устинов, М. Т. Калашников, С. А. Афанасьев, В. И. Болысов); 9 директоров (И. И. Чекмарёв, В. И. Суров, М. С. Дубовый, Г. И. Маркелов, В. И. Фомин, Н. А. Богданов, И. С. Стыценко, В. П. Гродецкий, Г. И. Кудрявцев)"/>
+    <tag k="memorial" v="bas_relief"/>
+    <tag k="name" v="Галерея почёта"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="website" v="https://www.axion.ru/novosti/2018/galereya-pocheta/"/>
+  </node>
+  <node id="5863880310" lat="56.8468671" lon="53.1999831">
+    <tag k="description" v="4 Героя Социалистического труда (П. З. Абушек, Б. Н. Бажутин, В. И. Муравьёв, Г. И. Хлыбов); 7 руководителей промышленных предприятий Ижевска (Б. М. Белоусов, А. И. Урбан, А. В. Воскресенский, В. А. Шутов, Г. С. Акубов, А. И. Комлев, В. В. Емельянов)."/>
+    <tag k="memorial" v="bas_relief"/>
+    <tag k="name" v="Галерея почёта"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="website" v="https://www.axion.ru/novosti/2018/galereya-pocheta/"/>
+  </node>
+  <node id="5863960753" lat="56.8620339" lon="53.1875848">
+    <tag k="name" v="Народный музей авиации и космонавтики им. Ю. А. Гагарина"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="5863960754" lat="56.8593286" lon="53.1938920">
+    <tag k="name" v="Парк скульптур"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5863960755" lat="56.8495405" lon="53.2059927">
+    <tag k="amenity" v="bench"/>
+    <tag k="name" v="Скамья примерения"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="5863960761" lat="56.8615398" lon="53.2141462">
+    <tag k="description" v="персонажи вымышленной вселенной «Звёздных войн»"/>
+    <tag k="name" v="R2-D2 и C-3PO"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="wikidata" v="Q51788"/>
+    <tag k="wikipedia" v="ru:R2-D2"/>
+    <tag k="wikipedia_1" v="ru:C-3PO"/>
+  </node>
+  <node id="5867650417" lat="56.8592194" lon="53.1941845">
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="5867650426" lat="56.8589649" lon="53.1933877">
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="5867650462" lat="56.8593310" lon="53.1945694">
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="5873789959" lat="56.8596109" lon="53.1936284">
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="5874010133" lat="56.8438082" lon="53.2174994">
+    <tag k="name" v="Капля нефти"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5885287414" lat="56.8364397" lon="53.2386306">
+    <tag k="name" v="Музей детства"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="5937409683" lat="56.8428600" lon="53.2964167">
+    <tag k="artwork_type" v="sculpture"/>
+    <tag k="name" v="Дети на скамейке"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="5992501473" lat="56.8584257" lon="53.2117079">
+    <tag k="artwork_type" v="installation"/>
+    <tag k="name" v="Арка"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="5992532411" lat="56.8590338" lon="53.2116150">
+    <tag k="artwork_type" v="installation"/>
+    <tag k="name" v="Арка"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="5992661027" lat="56.8590157" lon="53.2116803">
+    <tag k="artwork_type" v="installation"/>
+    <tag k="name" v="&quot;Сундук&quot;"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="5992696395" lat="56.8586901" lon="53.2118036">
+    <tag k="artwork_type" v="painting"/>
+    <tag k="name" v="&quot;Морской берег&quot;"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="5992696396" lat="56.8586183" lon="53.2117635">
+    <tag k="artwork_type" v="installation"/>
+    <tag k="name" v="&quot;Избушка на курьих ножках&quot;"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="5992696398" lat="56.8584995" lon="53.2116428">
+    <tag k="artwork_type" v="installation"/>
+    <tag k="name" v="Сундук на цепи"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="5993020340" lat="56.8585863" lon="53.2117918">
+    <tag k="name" v="Лебедь"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="6157645227" lat="56.8651464" lon="53.1962617">
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Отличная уютная квартира .2 подъезд 5 этаж ,54 кв."/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="phone" v="+7(965)8515856"/>
+    <tag k="tourism" v="apartment"/>
+  </node>
+  <node id="6187831185" lat="56.8371595" lon="53.2734954">
+    <tag k="name" v="Комплекс памятников, 3-5 вв. н.э."/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="6281002767" lat="56.8724794" lon="53.1750494">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial" v="gun"/>
+    <tag k="name" v="Противотанковая пушка"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="6281002768" lat="56.8722657" lon="53.1753416">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial" v="gun"/>
+    <tag k="name" v="Противотанковая пушка"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="6374071399" lat="56.8344904" lon="53.2615831">
+    <tag k="addr:city" v="Ижевск"/>
+    <tag k="addr:housenumber" v="1Б"/>
+    <tag k="addr:region" v="Удмуртия"/>
+    <tag k="addr:street" v="улица Орджоникидзе"/>
+    <tag k="building" v="yes"/>
+    <tag k="check_date" v="2019-03-31"/>
+    <tag k="description" v="Аэротруба"/>
+    <tag k="name" v="Аэрокомплекс SkyFly"/>
+    <tag k="opening_hours" v="10:00-22:00"/>
+    <tag k="phone" v="+7 (3412) 99-88-80"/>
+    <tag k="tourism" v="theme_park"/>
+    <tag k="website" v="http://izhevsk.myskyfly.ru/"/>
+  </node>
+  <node id="6481765686" lat="56.8969823" lon="53.3305877">
+    <tag k="tourism" v="caravan_site"/>
+  </node>
+  <node id="6481773485" lat="56.8970979" lon="53.3306125">
+    <tag k="tourism" v="hostel"/>
+  </node>
+
+</osm>

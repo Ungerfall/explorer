@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2019-05-18T12:18:02Z"/>
+
+  <node id="970533211" lat="56.8608998" lon="53.1739818">
+    <tag k="historic" v="monument"/>
+    <tag k="name" v="С. М. Киров"/>
+  </node>
+  <node id="970533405" lat="56.8607006" lon="53.1683133">
+    <tag k="historic" v="monument"/>
+    <tag k="name" v="Карающий меч"/>
+  </node>
+  <node id="999706511" lat="56.8501240" lon="53.2234392">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Памятник А. С. Пушкину"/>
+  </node>
+  <node id="1152813461" lat="56.8722782" lon="53.1749263">
+    <tag k="historic" v="monument"/>
+    <tag k="name" v="Вечный студент"/>
+  </node>
+  <node id="1165412388" lat="56.8596935" lon="53.1965726">
+    <tag k="historic" v="monument"/>
+    <tag k="name" v="Орден Октябрьской революции – награда города Ижевска"/>
+  </node>
+  <node id="1259897102" lat="56.8539106" lon="53.2190270">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Вечный огонь"/>
+  </node>
+  <node id="1548568595" lat="56.8352231" lon="53.2674707">
+    <tag k="historic" v="memorial"/>
+  </node>
+  <node id="1593925772" lat="56.8461254" lon="53.2164353">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="И. А. Наговицын"/>
+  </node>
+  <node id="1593925773" lat="56.8647118" lon="53.2305734">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="жертвы пол. репрессий 1937г"/>
+  </node>
+  <node id="1644407584" lat="56.8441900" lon="53.2123615">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Памятник-пушка 174-му ОИПТД"/>
+  </node>
+  <node id="1666116706" lat="56.8453575" lon="53.2074182">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="В.И. Ленин"/>
+  </node>
+  <node id="1861286811" lat="56.8585092" lon="53.2094322">
+    <tag k="backrest" v="no"/>
+    <tag k="historic" v="memorial"/>
+    <tag k="inscription" v="У лукоморья дуб зеленый&#x0a;Златая цепь на дубе том&#x0a;И днем и ночью кот ученый&#x0a;все ходит по цепи кругом"/>
+    <tag k="memorial" v="sculpture"/>
+    <tag k="name" v="&quot;Кот ученый&quot;"/>
+  </node>
+  <node id="2309304727" lat="56.7841721" lon="53.0722722">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Памятник"/>
+  </node>
+  <node id="2319748222" lat="56.8395479" lon="53.1948428">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Памятник воинам-металлургам, погибшим в Великой Отечественной войне 1941-1945 гг."/>
+  </node>
+  <node id="2348003715" lat="56.8439939" lon="53.1976739">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Памятник Ижевским оружейникам"/>
+  </node>
+  <node id="2348003718" lat="56.8440201" lon="53.1986003">
+    <tag k="description" v="Колонна в честь Михаила Павловича"/>
+    <tag k="historic" v="monument"/>
+    <tag k="name" v="Михайловская колонна"/>
+  </node>
+  <node id="2398192092" lat="56.8445086" lon="53.1911913">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Бюст А.Ф.Дерябина"/>
+    <tag k="wikidata" v="Q4159087"/>
+    <tag k="wikipedia" v="ru:Дерябин, Андрей Фёдорович"/>
+  </node>
+  <node id="2480198448" lat="56.8500473" lon="53.2903156">
+    <tag k="historic" v="monument"/>
+    <tag k="name" v="Звёздочка"/>
+  </node>
+  <node id="2659084215" lat="56.8361923" lon="53.2607569">
+    <tag k="historic" v="ruins"/>
+    <tag k="name" v="Останки лыжной станции"/>
+  </node>
+  <node id="2962204002" lat="56.8195650" lon="53.0456645">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Дуровская грань"/>
+  </node>
+  <node id="3633902029" lat="56.8497327" lon="53.2046778">
+    <tag k="description" v="Мемориал памяти жертв революции и Гражданской войны"/>
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial:type" v="obelisk"/>
+    <tag k="name" v="Революционный некрополь"/>
+    <tag k="name:udm" v="Революци некрополь"/>
+    <tag k="start_date" v="1922"/>
+  </node>
+  <node id="3649251509" lat="56.8210597" lon="53.2129683">
+    <tag k="description" v="Памятник В. И. Ленину"/>
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="В. И. Ленин"/>
+    <tag k="name:en" v="Statue of Lenin"/>
+    <tag k="name:udm" v="В. И. Ленин"/>
+  </node>
+  <node id="3822939247" lat="56.8598440" lon="53.1977046">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Памятник Жертвам радиационных катастроф и аварий"/>
+  </node>
+  <node id="3951755875" lat="56.8780002" lon="53.1856717">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Памятник &quot;Ветерану-металлургу&quot;"/>
+  </node>
+  <node id="3957116836" lat="56.7984695" lon="53.1865481">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Паровоз Эр 796-28"/>
+  </node>
+  <node id="3957116872" lat="56.8021614" lon="53.1894621">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Памятная доска П. И. Чайковскому"/>
+  </node>
+  <node id="3957171973" lat="56.8781162" lon="53.2342900">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Памятник строителю"/>
+  </node>
+  <node id="4031473786" lat="56.8030659" lon="53.2356943">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial" v="war_memorial"/>
+  </node>
+  <node id="4087269115" lat="56.8484265" lon="53.2180834">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial:type" v="statue"/>
+    <tag k="name" v="Трокай Борисов"/>
+  </node>
+  <node id="4087269116" lat="56.8490691" lon="53.2187373">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial" v="statue"/>
+    <tag k="name" v="Иван Дмитриевич Пастухов"/>
+  </node>
+  <node id="4087269117" lat="56.8536641" lon="53.2171468">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial" v="statue"/>
+    <tag k="name" v="Кузебай Герд"/>
+  </node>
+  <node id="4130618574" lat="56.8995064" lon="53.1416342">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial" v="statue"/>
+    <tag k="name" v="Лось"/>
+  </node>
+  <node id="4161554909" lat="56.8544118" lon="53.3594531">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial" v="war_memorial"/>
+  </node>
+  <node id="4200463780" lat="56.7862875" lon="53.3183368">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Поклонный Памятный Крест на месте боев за Ижевск 1918 г."/>
+  </node>
+  <node id="4207906448" lat="56.8469875" lon="53.1998991">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial" v="sculpture"/>
+    <tag k="name" v="Ю. А. Гагарин"/>
+  </node>
+  <node id="4243098422" lat="56.9026233" lon="53.3758454">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial" v="war_memorial"/>
+  </node>
+  <node id="4290927254" lat="56.8413244" lon="53.2216538">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial" v="statue"/>
+    <tag k="name" v="Ленин В. У."/>
+  </node>
+  <node id="4303667493" lat="56.8409354" lon="53.2160740">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="1941-1945"/>
+  </node>
+  <node id="4315398192" lat="56.7849432" lon="53.3793422">
+    <tag k="historic" v="memorial"/>
+    <tag k="inscription" v="Подвиг ваш не забыт, память о вас вечна!"/>
+    <tag k="memorial" v="war_memorial"/>
+  </node>
+  <node id="4340235569" lat="56.8195590" lon="53.1794456">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial" v="bust"/>
+    <tag k="name" v="П. З. Субботин"/>
+  </node>
+  <node id="4388444017" lat="56.8608915" lon="53.1736962">
+    <tag k="description" v="Перемещён от Дворца творчества юных"/>
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Танк ИС-3"/>
+  </node>
+  <node id="4388444018" lat="56.8596246" lon="53.1925375">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Монумент в память о воинах-интернационалистах"/>
+  </node>
+  <node id="4388444019" lat="56.8595079" lon="53.1928870">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="БТР"/>
+  </node>
+  <node id="4388444020" lat="56.8595329" lon="53.1926749">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Стелла &quot;Прощай, оружие&quot;"/>
+  </node>
+  <node id="4403240481" lat="56.8525272" lon="53.2037414">
+    <tag k="historic" v="monument"/>
+    <tag k="name" v="Ижик"/>
+  </node>
+  <node id="4403463427" lat="56.8457634" lon="53.1987508">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Памятник М. Горькому"/>
+  </node>
+  <node id="4475040194" lat="56.8388236" lon="53.2058424">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial" v="bust"/>
+    <tag k="name" v="З. А. Космодемьянская"/>
+  </node>
+  <node id="4519206802" lat="56.8828165" lon="53.2459334">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Памятник Ф.Э. Дзержинскому"/>
+  </node>
+  <node id="4745048525" lat="56.8598236" lon="53.2335067">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Коза"/>
+    <tag k="name:ru" v="Коза"/>
+  </node>
+  <node id="4872347952" lat="56.8549504" lon="53.2189598">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Воинам-Депутатам Верховного Совета УАССР"/>
+  </node>
+  <node id="4891519048" lat="56.8599973" lon="53.1768236">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Мобильный ЗРК &quot;Оса-АКМ&quot;"/>
+  </node>
+  <node id="4984921614" lat="56.8480398" lon="53.1160480">
+    <tag k="historic" v="monument"/>
+    <tag k="name" v="Образцы продукции ЗЯБ"/>
+  </node>
+  <node id="5002080700" lat="56.8655668" lon="53.2095962">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial" v="yes"/>
+    <tag k="name" v="Скульптура &quot;Граф Шувалов&quot;"/>
+  </node>
+  <node id="5138336779" lat="56.8563488" lon="53.2924899">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Памятник преподобному Серафиму Саровскому"/>
+  </node>
+  <node id="5294454533" lat="56.8322803" lon="53.1855482">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Памятник сталеварам"/>
+  </node>
+  <node id="5298989221" lat="56.8492270" lon="53.2231102">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Памятник Михаилу Васильевичу Ломоносову"/>
+    <tag k="start_date" v="2011-11-18"/>
+    <tag k="subject:wikidata" v="Q58720"/>
+  </node>
+  <node id="5635867721" lat="56.8503289" lon="53.2346964">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Памятник Нефтян"/>
+    <tag k="name:ru" v="Памятник Нефтянику"/>
+  </node>
+  <node id="5670668776" lat="56.8719432" lon="53.2273092">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Скульптура &quot;Электрик и воробьи&quot;"/>
+  </node>
+  <node id="5712386604" lat="56.8508509" lon="53.2031626">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="П.В. Можаров"/>
+    <tag k="website" v="https://www.axion.ru/novosti/2018/mojarov/"/>
+  </node>
+  <node id="5728834138" lat="56.8771153" lon="53.2587485">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Обелиск воинам ВС СССР"/>
+  </node>
+  <node id="5737572367" lat="56.8652708" lon="53.1740837">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="&quot;Бронзовый волк&quot;"/>
+  </node>
+  <node id="5738910596" lat="56.8659624" lon="53.1722639">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Белый медведь"/>
+  </node>
+  <node id="5836956735" lat="56.8726689" lon="53.2329240">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Мемориал, посвящённый невинным жертвам Геноцида армян 1915 года"/>
+  </node>
+  <node id="5862372180" lat="56.8457863" lon="53.2003305">
+    <tag k="historic" v="monument"/>
+    <tag k="name" v="Ансамбль купеческих зданий середины XIX века."/>
+    <tag k="website" v="http://www.iz-article.ru/bazarnay.html"/>
+  </node>
+  <node id="5862372183" lat="56.8536928" lon="53.2183631">
+    <tag k="description" v="Евге́ний Макси́мович Кунгу́рцев (3 октября 1921 года — 11 мая 2000 года) — участник Великой Отечественной войны, в годы войны — командир звена и эскадрильи 15-го гвардейского штурмового авиационного полка 277-й штурмовой авиационной дивизии."/>
+    <tag k="historic" v="memorial"/>
+    <tag k="inscription" v="Дважды Герой Советского Союза, генерал-майор авиации (1964)."/>
+    <tag k="memorial" v="bust"/>
+    <tag k="name" v="Евге́ний Макси́мович Кунгу́рцев"/>
+  </node>
+  <node id="5862372184" lat="56.8540218" lon="53.2190117">
+    <tag k="historic" v="memorial"/>
+    <tag k="inscription" v="«За подвиг ради жизни на земле отчизна-мать вам благодарна вечно».&#x0a;«Сынам и дочерям Удмуртии, внесшим значительный вклад в победу в Великой Отечественной войне 1941-1945 годов»"/>
+    <tag k="memorial" v="statue"/>
+    <tag k="name" v="Монумент боевой и трудовой славы"/>
+  </node>
+  <node id="5862429809" lat="56.8447385" lon="53.1988871">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Здание бывшего Офицерского собрания"/>
+    <tag k="website" v="http://www.izh.ru/i/info/16537.html"/>
+  </node>
+  <node id="5862429810" lat="56.8441162" lon="53.2033036">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial" v="yes"/>
+    <tag k="name" v="Комплекс жилых домов Ижстальзавода. («Дома на Кирхе»)"/>
+  </node>
+  <node id="5863960756" lat="56.8497041" lon="53.2059577">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial" v="sculpture"/>
+    <tag k="name" v="Святые Петр и Феврония Муромские"/>
+  </node>
+  <node id="5863960757" lat="56.8480664" lon="53.2048639">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial" v="bust"/>
+    <tag k="name" v="Ф. А. Пушина"/>
+  </node>
+  <node id="5863960760" lat="56.8504720" lon="53.2064369">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial" v="sculpture"/>
+    <tag k="name" v="М. Т. Калашников"/>
+  </node>
+  <node id="5874010134" lat="56.8441185" lon="53.2174203">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="В. И. Кудинов"/>
+  </node>
+  <node id="5896463469" lat="56.8829011" lon="53.1880147">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial" v="war_memorial"/>
+    <tag k="name" v="В память военнопленным венграм"/>
+  </node>
+  <node id="6126615685" lat="56.8439911" lon="53.1976256">
+    <tag k="historic" v="monument"/>
+    <tag k="name" v="Памятник"/>
+    <tag k="name:ru" v="Памятник ижевским оружейникам"/>
+  </node>
+  <node id="6281002767" lat="56.8724794" lon="53.1750494">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial" v="gun"/>
+    <tag k="name" v="Противотанковая пушка"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="6281002768" lat="56.8722657" lon="53.1753416">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial" v="gun"/>
+    <tag k="name" v="Противотанковая пушка"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+
+</osm>
