@@ -13,5 +13,6 @@ function renderVisitedMarkers(map, points) {
     points.forEach(el => {
         el.visited = true;
         el.id.removeFrom(map);
+        savePoints();
     });
 }
