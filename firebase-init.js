@@ -1,12 +1,12 @@
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyDBYv89QjzlkIYDwwrD9wSMDS2Ww_RbEjk",
-  authDomain: "townexplorer-5b363.firebaseapp.com",
-  databaseURL: "https://townexplorer-5b363.firebaseio.com",
-  projectId: "townexplorer-5b363",
-  storageBucket: "townexplorer-5b363.appspot.com",
-  messagingSenderId: "94254405459",
-  appId: "1:94254405459:web:bdb4745e8367f649"
+  apiKey: "AIzaSyCngMG9fxldq57NNccmk_wOhZmixY7tBQ8",
+  authDomain: "town-explorer.firebaseapp.com",
+  databaseURL: "https://town-explorer.firebaseio.com",
+  projectId: "town-explorer",
+  storageBucket: "town-explorer.appspot.com",
+  messagingSenderId: "438432667666",
+  appId: "1:438432667666:web:3d311094126fb5db"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
