@@ -21,7 +21,7 @@ def parse(files):
         if popup_name is None:
           popup_name = 'Интересный объект'
         if not bad_place:
-          print("{{ id: {3}, lat: {0}, lon: {1}, popup: \'{2}\', markerRef: null }},".format(lat, lon, popup_name, id), file=js)
+          print("{{ id: {3}, lat: {0}, lon: {1}, popup: \'{2}\', markerRef: null, visited: false }},".format(lat, lon, popup_name, id), file=js)
           id += 1
   
   print('];', file=js)
