@@ -3,6 +3,8 @@
     <head>
         <title>explorer</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>    
         <script type="text/javascript" src="index.js"></script>
 
         <!-- The core Firebase JS SDK is always required and must be listed first -->
@@ -15,16 +17,19 @@
         <script type="text/javascript" src="firebase-init.js"></script>
     </head>
     <body>
-        <div id="auth-div">
-            <input type="button" value="auth" id="btn-auth">
-            <input type="input" id="login">
-        </div>
-        <div id="sign-div">
-            <input type="button" value="sign-up" id="btn-signup">
-            <input id="password" type="password">
-        </div>
-        <div>
-            <input type="button" value="map" id="btn-map">
+        <div style="display: flex; position: fixed; width: 100%; height: 100%; align-items: center; align-content: center; justify-content: center;">
+            <div class="form-group">
+                <div class="input-group mb-3">
+                    <input type="input" class="form-control" placeholder="Login" id="login">
+                </div>
+                <div class="input-group mb-3">
+                    <input type="password" class="form-control" placeholder="Password" id="password">
+                </div>
+
+                <button type="button" class="btn btn-success" id="btn-auth">Sign In</button>
+                <button type="button" class="btn btn-primary" id="btn-signup">Sign Up</button>
+                <button type="button" class="btn btn-primary" id="btn-guest">Guest</button>   
+            </div>
         </div>
     </body>
 </html>
