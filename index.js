@@ -12,10 +12,10 @@ window.addEventListener("load", function(e) {
         loginUserWithEmailAndPassword(login.value, password.value);
     },false);
 
-    var mapBtn = document.getElementById("btn-map");
-    mapBtn.addEventListener("click", function(e){
-        goToMap();
-    })
+    var guestBtn = document.getElementById("btn-guest");
+    guestBtn.addEventListener("click", function(e) {
+        loginAnonymously();
+    });
 }, false);
 
 function registerUserWithEmailAndPassword(email, pass) {
@@ -42,6 +42,16 @@ function loginUserWithEmailAndPassword(email, pass) {
         var errorMessage = error.message;
         console.log(error);
       });
+}
+
+function loginAnonymously() {
+    firebase.auth().signInAnonymously()
+    .then(user => {
+        goToMap();
+    })
+    .catch(error => {
+        console.log(error);
+    });
 }
 
 function goToMap() {
