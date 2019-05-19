@@ -8,6 +8,7 @@ DG.then(function () {
 
     DG.control.location({ locateOptions: { setView: false, watch: true } }).addTo(map);
 
+    loadPoints();
     renderMarkers(map, interestingPoints);
     map.locate({ setView: false, watch: true })
         .on('locationfound', function (userLocation) {
