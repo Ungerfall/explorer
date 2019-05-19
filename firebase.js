@@ -1,10 +1,10 @@
-function setPointsState(database, user) {
+function setPointsState() {
     interestingPoints.forEach(point => {
         database.ref('/visitedplaces/' + user + '/' + point.id).set(point.visited);
     });
 }
 
-function getPointsState(database, user) {
+function getPointsState() {
     interestingPoints.forEach(function (point) {
         database.ref('/visitedplaces/' + user + '/' + point.id).once('value').then(function (snapshot) {
             point.visited = (snapshot.val() && snapshot.val().visited) || false;
