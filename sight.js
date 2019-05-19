@@ -4,7 +4,7 @@ function renderMarkers(map, points) {
             var marker = DG.marker([el.lat, el.lon])
                 .addTo(map)
                 .bindPopup(el.popup);
-            el.id = marker;
+            el.markerRef = marker;
         }
     });
 }
@@ -12,7 +12,7 @@ function renderMarkers(map, points) {
 function renderVisitedMarkers(map, points) {
     points.forEach(el => {
         el.visited = true;
-        el.id.removeFrom(map);
+        el.markerRef.removeFrom(map);
         savePoints();
     });
 }
