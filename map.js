@@ -20,6 +20,7 @@ DG.then(function () {
             console.log(points);
             */
             renderVisitedMarkers(map, points);
+            updateProgressBar();
         })
         .on('locationerror', function (e) {
             var popup = DG.popup()
